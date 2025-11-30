@@ -8,3 +8,6 @@ The titanic_survival_prediction.py script performs several essential tasks. It b
 The model is evaluated using standard performance metrics such as accuracy, precision, recall, and F1-score to measure how well it generalizes to unseen data. In addition to model training and evaluation, the project includes visualizations that provide deeper insights into survival trends. These include survival rates across gender, passenger class, and different age groups, helping to clearly interpret the impact of various factors on survival.
 
 This project is implemented entirely in Python using data science libraries such as Pandas for data manipulation, NumPy for numerical operations, Scikit-learn for preprocessing and model building, and Matplotlib for visualization. It serves as a beginner-friendly yet complete example of a supervised machine learning classification project.
+
+
+
