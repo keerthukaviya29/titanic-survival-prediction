@@ -1,2 +1,8 @@
 # titanic-survival-prediction
 Machine Learning project predicting Titanic survival
+
+Titanic Survival Prediction is a machine learning project designed to analyze passenger data from the historic Titanic disaster and predict whether a passenger survived or not. In real-world scenarios, predictive modeling plays a crucial role in understanding how different factors influence outcomes, helping organizations make data-driven decisions. This project explores relationships between demographic features such as age, gender, and travel class, as well as family information like siblings and parents aboard, to uncover patterns that affected survival rates.
+
+The project uses supervised learning techniques to build a classification model capable of predicting survival probabilities. Logistic Regression is applied to train and evaluate the model, while key performance metrics such as accuracy, precision, recall, and F1-score are calculated to understand its effectiveness. Additionally, the project includes visualizations that highlight survival distributions across gender, passenger class, and age groups, offering deeper insights into the dataset.
+
+Key objectives include handling missing values, encoding categorical variables, selecting meaningful features, training the machine learning model, and generating clear visual interpretations of survival trends. This project is implemented using Python and popular data-analysis libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib. It serves as a foundational example of how data preprocessing, feature engineering, and classification algorithms come together to solve real-world prediction problems.
